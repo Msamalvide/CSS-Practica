@@ -36,3 +36,8 @@ body{
   margin: auto;
   padding: 1em;
 }
+
+.input{
+    background-color: rgb(151, 219, 219);
+    border: 0.1em solid black;
+}
