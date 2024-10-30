@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(151, 219, 219);
+}
+
+.miTexto{
+    color:blue;
+}
+
+#Sub-tit{
+    font-size: 20px;
+}
+
+.title{
+    font-size: 40px;
+    color:rgb(226, 127, 56);
+}
+
+.logo{
+ width: 200px;    
+}
+
+.cards{
+    border: 0.1em solid black;
+    width: fit-content;
+    padding: 0em 2em 0em 2em;
+    border-radius:10%;
+    transition:1s;
+}
+.cards:hover{
+    background-color: rgb(36, 160, 160);
+}
+
+#Titulos{
+  border: 0.1em solid rgb(207, 33, 33);
+  width: 65vw;
+  margin: auto;
+  padding: 1em;
+}
